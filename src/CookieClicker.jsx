@@ -16,7 +16,7 @@ export default function CookieClicker() {
         aria-label="Trykk på kjeksen for poeng"
       >
         <img
-          src="/cookie.png"
+          src="cookie.png"
           alt="Image of a Cookie"
           style={{ width: "120px", display: "block", margin: "0 auto" }}
         />
